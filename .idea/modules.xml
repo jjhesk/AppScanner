@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HeskJJ.iml" filepath="$PROJECT_DIR$/HeskJJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zbar/sample/sample.iml" filepath="$PROJECT_DIR$/zbar/sample/sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vendor/vendor.iml" filepath="$PROJECT_DIR$/vendor/vendor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zbar/zbar/zbar-zbar.iml" filepath="$PROJECT_DIR$/zbar/zbar/zbar-zbar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxing/sample/zxing-sample.iml" filepath="$PROJECT_DIR$/zxing/sample/zxing-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zxing/zxing/zxing-zxing.iml" filepath="$PROJECT_DIR$/zxing/zxing/zxing-zxing.iml" />
+    </modules>
+  </component>
+</project>
+
