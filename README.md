@@ -1,4 +1,4 @@
-AppScanner
+AppScanner [![Build Status](https://travis-ci.org/jjhesk/v-app-scanner.svg)](https://travis-ci.org/jjhesk/v-app-scanner)
 ==========
 
 The APP to make QR verifications from transactions
